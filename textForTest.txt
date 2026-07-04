@@ -1,0 +1,2 @@
+this is a text file create insid of github but you imagin your partner create this and you have'nt it in your local repositiry you have to exicute the git pull to take
+the latest update of code and files
